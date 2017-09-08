@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScannerTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="scan_start">Read</string>
+    <string name="scan_stop">Cancel</string>
+    
+    <string name="getparam">Get</string>
+    <string name="setparam">Set</string>
+    <string name="pnum">Number</string>
+    <string name="pval">Value</string>
+    <string name="Params">Parameters</string>
+    <string name="blank"></string>
+
+</resources>

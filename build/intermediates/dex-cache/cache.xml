@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\developpeur\Documents\Workspace\ScannerTest\app\libs\ScannerLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="760a0730d72607f2ad645fefe4bcce923c891d0e">
+        <dex dex="C:\Users\developpeur\Documents\Workspace\ScannerTest\app\build\intermediates\pre-dexed\debug\ScannerLib_9dc1c98d7f8e1567325953a8ce34cb406b9afc42.jar" />
+    </item>
+
+</items>
